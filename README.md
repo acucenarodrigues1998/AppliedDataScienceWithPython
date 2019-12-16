@@ -1,7 +1,6 @@
 # AppliedDataScienceWithPython
 
-## Material obtido através da realização do *Programa de Cursos Integrados Applied Data Science with Python* na modalidade especialização fornecido pela Universidade de Michigan através da plataforma Coursera. 
-[Link do Programa](https://www.coursera.org/specializations/data-science-python) 
+Material obtido através da realização do *Programa de Cursos Integrados Applied Data Science with Python* na modalidade especialização fornecido pela Universidade de Michigan através da plataforma Coursera. [Link do Programa](https://www.coursera.org/specializations/data-science-python) 
 
 * O programa é formado por 5 cursos, sendo eles:
   1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) (**Em Andamento...**)
