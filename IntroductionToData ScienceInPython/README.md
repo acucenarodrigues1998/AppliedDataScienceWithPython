@@ -13,7 +13,7 @@
   * Empregar a biblioteca do pandas para importar e manipular dados
   * Aplicar indexação e consulta aos DataFrames e lidar com os valores ausentes
 
-* Semana3 (Incompleta)
+* Semana3 (Incompleto)
 
 * Semana4 (Indisponível)
 
