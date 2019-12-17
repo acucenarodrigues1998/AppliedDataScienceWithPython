@@ -13,7 +13,12 @@
   * Empregar a biblioteca do pandas para importar e manipular dados
   * Aplicar indexação e consulta aos DataFrames e lidar com os valores ausentes
 
-* Semana3 (Incompleta)
+* Semana3 
+  * Aplicar merge e join nos DataFrames
+  * Empregar Slicing e indexing em DataFrames
+  * Analisar dados com groupby e entender variáveis categóricas
+  * Produzir todo o processo da fonte de dados para elucidação
+  * Examinar os dados manipulando, cortando e aplicando funções agregadas aos DataFrames
 
 * Semana4 (Indisponível)
 
