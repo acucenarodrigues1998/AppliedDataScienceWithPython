@@ -1,8 +1,14 @@
 # Introduction to Data Science in Python
 
+Em cada pasta, estão contidos os materiais de cada semana do curso, sendo: um arquivo pdf com o slide das aulas, um arquivo .ipynb com as notas e códigos desenvolvidos durante as aulas e um segundo arquivo .ipynb com a atividade avaliativa da semana (Exceto na semana 1).
+
+### Principais bibliotecas usadas:
+
+* Pandas 
+* Numpy
+
 ## Diretórios incluídos
 
-Em cada pasta, estão contidos os materiais de cada semana do curso, sendo: um arquivo pdf com o slide das aulas, um arquivo .ipynb com as notas e códigos desenvolvidos durante as aulas e um segundo arquivo .ipynb com a atividade avaliativa da semana (Exceto na semana 1).
 
 * Semana1
   * Reconhecer o significado do termo "Data Science"
