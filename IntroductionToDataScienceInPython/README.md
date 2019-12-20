@@ -2,6 +2,8 @@
 
 ## Diretórios incluídos
 
+Em cada pasta, estão contidos os materiais de cada semana do curso, sendo: um arquivo pdf com o slide das aulas, um arquivo .ipynb com as notas e códigos desenvolvidos durante as aulas e um segundo arquivo .ipynb com a atividade avaliativa da semana (Exceto na semana 1).
+
 * Semana1
   * Reconhecer o significado do termo "Data Science"
   * Desenvolver programas Python básicos usando strings, funções, listas, dicionários, recursos de data/hora e arquivos
@@ -20,7 +22,10 @@
   * Produzir todo o processo da fonte de dados para elucidação
   * Examinar os dados manipulando, cortando e aplicando funções agregadas aos DataFrames
 
-* Semana4 (Indisponível)
+* Semana4 (Em desenvolvimento)
+  * Identificar sua compreensão das estatísticas básicas
+  * Conhecer distribuições diferentes, como binomial, uniforme, normal e qui-quadrado
+  * Interpretar dados para avaliar testes de hipóteses
 
 * BasesDeDados 
   * Todas as bases de dados usadas durante o curso
