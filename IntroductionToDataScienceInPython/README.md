@@ -6,6 +6,7 @@ Em cada pasta, estão contidos os materiais de cada semana do curso, sendo: um a
 
 * Pandas 
 * Numpy
+* Scipy.stats
 
 ## Diretórios incluídos
 
@@ -28,7 +29,7 @@ Em cada pasta, estão contidos os materiais de cada semana do curso, sendo: um a
   * Produzir todo o processo da fonte de dados para elucidação
   * Examinar os dados manipulando, cortando e aplicando funções agregadas aos DataFrames
 
-* Semana4 (Em desenvolvimento)
+* Semana4
   * Identificar sua compreensão das estatísticas básicas
   * Conhecer distribuições diferentes, como binomial, uniforme, normal e qui-quadrado
   * Interpretar dados para avaliar testes de hipóteses
