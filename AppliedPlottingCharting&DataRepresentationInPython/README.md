@@ -6,11 +6,17 @@ Em cada pasta, estão contidos os materiais de cada semana do curso.
 
 ### Principais bibliotecas usadas:
 
+* matplotlib.pyplot
+* Pandas
+* Scipy.stats
 
 ## Diretórios incluídos
 
 
 * Semana 1: Princípios de visualização de informações
+
+Neste módulo, você obterá uma introdução aos princípios de visualização de informações. Seremos apresentados a ferramentas para pensar em design e heurísticas gráficas para pensar em criar visualizações efetivas. Todas as informações do curso sobre classificação, pré-requisitos e expectativas estão no plano de estudos do curso, incluído neste módulo.
+
   * Escolher um gráfico que exiba informações enganosas
   * Interpretar os recursos do gráfico para identificar o(s) mecanismo(s) usado(s) pelo "codificador" para enganar o "decodificador"
   * Analisar o gráfico e usar os princípios do trabalho de Alberto Cairo para explicar como o gráfico é enganoso
@@ -22,7 +28,14 @@ Em cada pasta, estão contidos os materiais de cada semana do curso.
      * 2 artigos 
      * Métricas de avaliação da tarefa final e a imagem usada
 
-* Semana 2:
+* Semana 2: Basic Charting
+
+Neste módulo, você mergulhará nos gráficos básicos. Para a tarefa desta semana, você trabalhará com dados meteorológicos CSV do mundo real. Você manipulará os dados para exibir a temperatura mínima e máxima para um intervalo de datas e demonstrará que sabe como criar um gráfico de linhas usando o matplotlib. Além disso, você demonstrará o procedimento dos gráficos compostos, sobrepondo um gráfico de dispersão dos dados de quebra de recorde para um determinado ano.
+  
+  * Trabalhar com dados CSV do mundo real
+  * Saiber como criar um gráfico de linhas usando o matplotlib
+  * Manipular dados para obter a temperatura mínima e máxima
+  * Demonstrar procedimento de gráficos compostos
   
 
 * Semana 3: 
