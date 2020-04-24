@@ -23,10 +23,6 @@ Neste módulo, você obterá uma introdução aos princípios de visualização 
 * Criar um gráfico de radar para refletir sobre a complexidade do gráfico enganoso
   
 * [Link para a atividade final da semana](https://www.coursera.org/learn/python-plotting/peer/KOk5G/graphics-lies-misleading-visuals/review/Y8NRQz2JEeqcYwq_W3tDAw).
-* Arquivos:
-  * Slide da semana
-  * 2 artigos 
-  * Métricas de avaliação da tarefa final e a imagem usada
 
 ##### Semana 2: Gráficos básicos
 
@@ -48,7 +44,14 @@ Neste módulo, você explorará os fundamentos de gráficos. Para a tarefa desta
 * Criar visualizações animadas e interativas
   
 
-##### Semana 4:
+##### Semana 4: Visualizações Aplicadas
+
+Neste módulo, tudo começa a se unir. Sua tarefa final é intitulada "Tornando-se um cientista de dados". Essa atribuição exige que você identifique pelo menos dois conjuntos de dados acessíveis ao público da mesma região que sejam consistentes em uma dimensão significativa. Você indicará uma pergunta de pesquisa que pode ser respondida usando esses conjuntos de dados e, em seguida, criará um visual usando matplotlib que aborda sua pergunta de pesquisa declarada. Você será solicitado a justificar como o visual aborda sua pergunta de pesquisa.
+
+* Identificar dois conjuntos de dados acessíveis ao público da mesma região que são consistentes em uma dimensão significativa
+* Indicar uma pergunta de pesquisa que possa ser respondida usando dois conjuntos de dados acessíveis ao público
+* Criar um visual usando o matplotlib que atenda à sua pergunta de pesquisa declarada
+* Justificar como o visual aborda sua pergunta de pesquisa
   
 
 
